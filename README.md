@@ -9,8 +9,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <div align="left">
   <h3>GitHub Stats</h3>
   <a href="https://github.com/leticiaplcp">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=leticiaplcp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaplcp&layout=compact&langs_count=7&theme=tokyonight&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=leticiaplcp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=000&title_color=9400D3&text_color=FFF&border_radius=3&border_color=9400D3&icon_color=BF6DE2&theme=jolly" alt="GitHub stats">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaplcp&layout=compact&langs_count=7&theme=tokyonight&bg_color=000&title_color=9400D3&text_color=8B8B8B&border_radius=3&border_color=9400D3&count_private=true" alt="Most Used Languages">
 </div>
 
 
@@ -53,11 +53,3 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 
 
-#
-<!--
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leticiaplcp/leticiaplcp/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leticiaplcp/leticiaplcp/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leticiaplcp/leticiaplcp/output/github-contribution-grid-snake.svg">
-</picture>
--->
