@@ -7,8 +7,8 @@
 <div align="left">
   <h3>GitHub Stats</h3>
   <a href="https://github.com/leticiaplcp">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=leticiaplcp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=000&title_color=9400D3&text_color=FFF&border_radius=3&border_color=9400D3&icon_color=BF6DE2" alt="GitHub stats">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaplcp&layout=compact&langs_count=7&theme=tokyonight&bg_color=000&title_color=9400D3&text_color=8B8B8B&border_radius=3&border_color=9400D3&count_private=true" alt="Most Used Languages">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leticiaplcp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=000&title_color=9400D3&text_color=FFF&border_radius=3&border_color=9400D3&icon_color=BF6DE2" alt="GitHub stats">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaplcp&layout=compact&langs_count=7&theme=tokyonight&bg_color=000&title_color=9400D3&text_color=8B8B8B&border_radius=3&border_color=9400D3&count_private=true" alt="Most Used Languages">
   </a>
 </div>
 
