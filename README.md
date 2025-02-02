@@ -1,6 +1,6 @@
 ### Olá mundo! Eu sou a Letícia Policarpo👋
 
-<p align="justify">Estudante de Sistemas de Informação na Faculdade ENIAC Guarulhos, e técnica em Informática para Internet formada pelo Instituto Federal de São Paulo Campus Guarulhos. Atualmente, atuo em uma empresa de tecnologia focada no mercado veicular, na área de processamento de dados. Estou entusiasmada em continuar minha trajetória profissional, contribuindo para projetos inovadores e buscando oportunidades para aprimorar minhas habilidades.
+<p align="justify">Estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, e técnica em Informática para Internet formada pelo Instituto Federal de São Paulo Campus Guarulhos. Atualmente, atuo em uma empresa de tecnologia focada no mercado veicular, na área de processamento de dados. Estou entusiasmada em continuar minha trajetória profissional, contribuindo para projetos inovadores e buscando oportunidades para aprimorar minhas habilidades.
 
 
 #
