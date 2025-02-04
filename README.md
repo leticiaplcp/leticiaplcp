@@ -7,13 +7,15 @@
 <div align="left">
   <h3>GitHub Stats</h3>
   <a href="https://github.com/leticiaplcp">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leticiaplcp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=000&title_color=9400D3&text_color=FFF&border_radius=3&border_color=9400D3&icon_color=BF6DE2" alt="GitHub stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaplcp&layout=compact&langs_count=7&theme=tokyonight&bg_color=000&title_color=9400D3&text_color=8B8B8B&border_radius=3&border_color=9400D3&count_private=true" alt="Most Used Languages">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leticiaplcp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=000000&title_color=9400D3&text_color=FFFFFF&border_radius=3&border_color=9400D3&icon_color=BF6DE2" alt="GitHub stats">
+  </a>
+  <a href="https://github.com/leticiaplcp">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaplcp&layout=compact&langs_count=7&theme=tokyonight&bg_color=000000&title_color=9400D3&text_color=8B8B8B&border_radius=3&border_color=9400D3&count_private=true" alt="Most Used Languages">
   </a>
 </div>
 
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
 
 <h3 align="left">My Stack</h3>
 
@@ -28,7 +30,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="27" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="27" alt="php logo"  />
   <img width="8" />
 </div>
 
@@ -38,9 +40,9 @@
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=9400D3&color:FFF)](mailto:lpolicarpopereira@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9400D3&color:FFF)](https://www.linkedin.com/in/leticiaplcp)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=9400D3&color:FFF)](https://www.instagram.com/leticiaplcp/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=9400D3)](mailto:lpolicarpopereira@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9400D3)](https://www.linkedin.com/in/leticiaplcp)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=9400D3)](https://www.instagram.com/leticiaplcp/)
 
 
 #
