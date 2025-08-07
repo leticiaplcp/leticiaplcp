@@ -32,6 +32,8 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="27" alt="php logo"  />
   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/python-plain.svg" height="27" alt="python logo"  />
+  <img width="8" />
 </div>
 
 
