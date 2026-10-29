@@ -19,6 +19,13 @@ Meu objetivo é continuar evoluindo profissionalmente, participando de projetos 
 
 </div>
 
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=9400D3)](mailto:lpolicarpopereira@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9400D3)](https://www.linkedin.com/in/leticiaplcp)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=9400D3)](https://www.instagram.com/leticiaplcp/)
+
+
 <div align="center">
 
 <img src="https://readmevanta.vercel.app/api/heatmap.svg?username=Leticiaplcp&amp;theme=aura" width="100%" alt="Contribution calendar" />
@@ -27,12 +34,6 @@ Meu objetivo é continuar evoluindo profissionalmente, participando de projetos 
 </div>
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
-
-<h3 align="left">Connect with me!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=9400D3)](mailto:lpolicarpopereira@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9400D3)](https://www.linkedin.com/in/leticiaplcp)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=9400D3)](https://www.instagram.com/leticiaplcp/)
 
 
 
