@@ -1,6 +1,14 @@
 ### Olá mundo! Eu sou a Letícia Policarpo👋
 
-<p align="justify">Estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul, e técnica em Informática para Internet formada pelo Instituto Federal de São Paulo Campus Guarulhos. Atualmente, atuo em uma empresa de tecnologia focada no mercado veicular, na área de processamento de dados. Estou entusiasmada em continuar minha trajetória profissional, contribuindo para projetos inovadores e buscando oportunidades para aprimorar minhas habilidades.
+<p align="justify">Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul e técnica em Informática para Internet pelo Instituto Federal de São Paulo (IFSP) – Campus Guarulhos.
+
+Atualmente, atuo como Agente de Implementação II em uma empresa de tecnologia voltada ao mercado veicular, com experiência em administração e otimização de CRM, automação de processos, gestão de dados e desenvolvimento de soluções para melhorar a eficiência operacional.
+
+Ao longo da minha trajetória, venho desenvolvendo habilidades analíticas e técnicas, buscando compreender processos, identificar oportunidades de melhoria e transformar necessidades de negócio em soluções eficientes.
+
+Tenho grande interesse nas áreas de Análise de Dados, Business Intelligence (BI) e tecnologia, e sigo aprimorando meus conhecimentos em Excel, SQL e ferramentas de análise de dados.
+
+Meu objetivo é continuar evoluindo profissionalmente, participando de projetos desafiadores e contribuindo para decisões e melhorias orientadas por dados..
 
 
 #
