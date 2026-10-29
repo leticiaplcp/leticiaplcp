@@ -8,7 +8,7 @@ Ao longo da minha trajetória, venho desenvolvendo habilidades analíticas e té
 
 Tenho grande interesse nas áreas de Análise de Dados, Business Intelligence (BI) e tecnologia, e sigo aprimorando meus conhecimentos em Excel, SQL e ferramentas de análise de dados.
 
-Meu objetivo é continuar evoluindo profissionalmente, participando de projetos desafiadores e contribuindo para decisões e melhorias orientadas por dados..
+Meu objetivo é continuar evoluindo profissionalmente, participando de projetos desafiadores e contribuindo para decisões e melhorias orientadas por dados.
 
 
 #
