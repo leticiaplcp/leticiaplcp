@@ -10,14 +10,10 @@ Tenho grande interesse nas áreas de Análise de Dados, Business Intelligence (B
 
 Meu objetivo é continuar evoluindo profissionalmente, participando de projetos desafiadores e contribuindo para decisões e melhorias orientadas por dados.
 
-## 🛠 Stack & Ferramentas
-
-<div align="left">
-
-<img src="https://readmevanta.vercel.app/assets/icons/python-dark.svg" width="40" height="40" alt="Python" title="Python" />
-<img src="https://readmevanta.vercel.app/assets/icons/sql-dark.svg" width="40" height="40" alt="SQL" title="SQL" />
-
-</div>
+<img src="https://readmevanta.vercel.app/api/badge.svg?label=Excel&amp;labelColor=a277ff&amp;messageColor=1f6feb&amp;style=for-the-badge" alt="Excel" />
+<img src="https://readmevanta.vercel.app/api/badge.svg?label=SQL&amp;labelColor=a277ff&amp;messageColor=1f6feb&amp;style=for-the-badge" alt="SQL" />
+<img src="https://readmevanta.vercel.app/api/badge.svg?label=Power+BI&amp;labelColor=a277ff&amp;messageColor=1f6feb&amp;style=for-the-badge" alt="Power BI" />
+<img src="https://readmevanta.vercel.app/api/badge.svg?label=Python&amp;labelColor=a277ff&amp;messageColor=1f6feb&amp;style=for-the-badge" alt="Python" />
 
 ## 📊 GitHub Stats
 
