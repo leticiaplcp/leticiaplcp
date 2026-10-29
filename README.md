@@ -10,18 +10,12 @@ Tenho grande interesse nas áreas de Análise de Dados, Business Intelligence (B
 
 Meu objetivo é continuar evoluindo profissionalmente, participando de projetos desafiadores e contribuindo para decisões e melhorias orientadas por dados.
 
+<div align="center">
+
 <img src="https://readmevanta.vercel.app/api/badge.svg?label=Excel&amp;labelColor=a277ff&amp;messageColor=1f6feb&amp;style=for-the-badge" alt="Excel" />
 <img src="https://readmevanta.vercel.app/api/badge.svg?label=SQL&amp;labelColor=a277ff&amp;messageColor=1f6feb&amp;style=for-the-badge" alt="SQL" />
 <img src="https://readmevanta.vercel.app/api/badge.svg?label=Power+BI&amp;labelColor=a277ff&amp;messageColor=1f6feb&amp;style=for-the-badge" alt="Power BI" />
 <img src="https://readmevanta.vercel.app/api/badge.svg?label=Python&amp;labelColor=a277ff&amp;messageColor=1f6feb&amp;style=for-the-badge" alt="Python" />
-
-## 📊 GitHub Stats
-
-<div>
-
-<img src="https://readmevanta.vercel.app/api/github-stats.svg?username=Leticiaplcp&amp;theme=aura" alt="Leticiaplcp GitHub stats" />
-<br />
-<img src="https://readmevanta.vercel.app/api/top-langs.svg?username=Leticiaplcp&amp;theme=aura" alt="Top languages" />
 
 </div>
 
