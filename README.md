@@ -14,6 +14,9 @@ Meu objetivo é continuar evoluindo profissionalmente, participando de projetos 
 #
 <div align="left">
   <a href="https://github.com/leticiaplcp">
+  <img width="49%" src="https://readmevanta.vercel.app/api/github-stats.svg?username=username&amp;theme=aura&amp;stars=0&amp;commits=0&amp;prs=0&amp;issues=0&amp;repos=0&amp;followers=0" alt="username GitHub stats" />
+  </a>
+  <a href="https://github.com/leticiaplcp">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaplcp&layout=compact&langs_count=7&theme=tokyonight&bg_color=000000&title_color=9400D3&text_color=8B8B8B&border_radius=3&border_color=9400D3&count_private=true" alt="Most Used Languages">
   </a>
 </div>
