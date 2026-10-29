@@ -24,9 +24,6 @@ Meu objetivo é continuar evoluindo profissionalmente, participando de projetos 
 <img src="https://readmevanta.vercel.app/api/heatmap.svg?username=Leticiaplcp&amp;theme=aura" width="100%" alt="Contribution calendar" />
 
 </div>
-
-<div align="center">
-  <a href="https://readmevanta.vercel.app"><img src="https://readmevanta.vercel.app/made-with.svg" height="12" alt="ReadmeVanta" title="Feito com ReadmeVanta" /></a>
 </div>
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
