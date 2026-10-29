@@ -10,33 +10,36 @@ Tenho grande interesse nas áreas de Análise de Dados, Business Intelligence (B
 
 Meu objetivo é continuar evoluindo profissionalmente, participando de projetos desafiadores e contribuindo para decisões e melhorias orientadas por dados.
 
-
-#
-<div align="left">
-  <a href="https://github.com/leticiaplcp">
-  <img width="49%" src="https://readmevanta.vercel.app/api/github-stats.svg?username=Leticiaplcp;theme=aura&amp;stars=0&amp;commits=0&amp;prs=0&amp;issues=0&amp;repos=0&amp;followers=0" alt="username GitHub stats" />
-  </a>
-</div>
-
-
-<div style="display: inline-block"><br>
-
-<h3 align="left">My Stack</h3>
+## 🛠 Stack & Ferramentas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
-  <img width="8" />
 
+<img src="https://readmevanta.vercel.app/assets/icons/python-dark.svg" width="40" height="40" alt="Python" title="Python" />
+<img src="https://readmevanta.vercel.app/assets/icons/sql-dark.svg" width="40" height="40" alt="SQL" title="SQL" />
 
 </div>
 
+## 📊 GitHub Stats
 
+<div align="center">
+
+<img src="https://readmevanta.vercel.app/api/github-stats.svg?username=Leticiaplcp&amp;theme=aura" alt="Leticiaplcp GitHub stats" />
+<br />
+<img src="https://readmevanta.vercel.app/api/top-langs.svg?username=Leticiaplcp&amp;theme=aura" alt="Top languages" />
+
+</div>
+
+## 🗓 Calendário de contribuições
+
+<div align="center">
+
+<img src="https://readmevanta.vercel.app/api/heatmap.svg?username=Leticiaplcp&amp;theme=aura" width="100%" alt="Contribution calendar" />
+
+</div>
+
+<div align="center">
+  <a href="https://readmevanta.vercel.app"><img src="https://readmevanta.vercel.app/made-with.svg" height="12" alt="ReadmeVanta" title="Feito com ReadmeVanta" /></a>
+</div>
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
