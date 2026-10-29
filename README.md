@@ -21,7 +21,7 @@ Meu objetivo é continuar evoluindo profissionalmente, participando de projetos 
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
 
 <img src="https://readmevanta.vercel.app/api/github-stats.svg?username=Leticiaplcp&amp;theme=aura" alt="Leticiaplcp GitHub stats" />
 <br />
