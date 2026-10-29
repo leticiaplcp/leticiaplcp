@@ -19,8 +19,6 @@ Meu objetivo é continuar evoluindo profissionalmente, participando de projetos 
 
 </div>
 
-## 🗓 Calendário de contribuições
-
 <div align="center">
 
 <img src="https://readmevanta.vercel.app/api/heatmap.svg?username=Leticiaplcp&amp;theme=aura" width="100%" alt="Contribution calendar" />
